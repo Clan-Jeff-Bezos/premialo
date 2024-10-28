@@ -1,15 +1,14 @@
-# 🎉 Premialo - Plataforma de Rifas en Línea
+# 🎉 Premialo - Online Raffle Platform
 
-*Premialo* es una plataforma de rifas en línea que ofrece a los usuarios una experiencia segura, transparente y accesible para participar en rifas y ganar premios en efectivo. Diseñado con el propósito de liderar el mercado de rifas digitales en Antioquia, *Premialo* garantiza un proceso justo y sencillo para todos los participantes.
+**Premialo** is an online raffle platform offering users a secure, transparent, and accessible way to participate in raffles and win cash prizes. Designed to lead the digital raffle market in Antioquia, Premialo ensures a fair and straightforward process for all participants.
 
-## 🚀 Características Principales
-- **Transparencia y Seguridad**: Sistema de sorteos justos y verificados.
-- **Accesibilidad**: Plataforma amigable y fácil de usar, sin barreras de acceso.
-- **Comunidad y Confianza**: Enfoque en crear una experiencia confiable y positiva para todos los usuarios.
+## 🚀 Key Features
+- **Transparency and Security**: Fair and verified raffle system.
+- **Accessibility**: User-friendly platform with no access barriers.
+- **Community and Trust**: Focused on creating a reliable and positive experience for all users.
 
-## 🎯 Objetivo
-Nuestro objetivo es ser la opción número uno en rifas en línea en Antioquia, brindando una alternativa de entretenimiento segura y divertida para el público mayor de edad.
+## 🎯 Goal
+Our goal is to become the number one choice for online raffles in Antioquia, providing a safe and entertaining alternative for an adult audience.
 
-## 📚 Tecnologías
-Este repositorio utiliza:
-
+## 📚 Technologies
+This repository uses:
